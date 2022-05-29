@@ -1,4 +1,4 @@
-使用[animegan_v2_hayao_99](https://www.paddlepaddle.org.cn/hubdetail?name=animegan_v2_hayao_99&en_category=GANs) 把视频风格化
+使用 [animegan_v2_hayao_99](https://www.paddlepaddle.org.cn/hubdetail?name=animegan_v2_hayao_99&en_category=GANs) 把视频风格化
 
 ### 安装依赖
 
